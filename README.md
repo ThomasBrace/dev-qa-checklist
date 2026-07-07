@@ -2,6 +2,8 @@
 
 A standalone, interactive checklist for Brandgility template developers — covering every step from picking up a ticket through final QA hand-off.
 
+**Repository:** https://github.com/ThomasBrace/dev-qa-checklist
+
 ## Usage
 
 Open `Development-Checklist-standalone.html` directly in any modern browser. No build step or server required.
