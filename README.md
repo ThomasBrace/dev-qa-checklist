@@ -6,7 +6,8 @@ A standalone, interactive checklist for Brandgility template developers — cove
 
 ## Usage
 
-Open `[Development-Checklist-standalone.html](https://thomasbrace.github.io/dev-qa-checklist/Development-Checklist-standalone.html)` directly in any modern browser. No build step or server required.
+Open https://thomasbrace.github.io/dev-qa-checklist/Development-Checklist-standalone.html
+directly in any modern browser. No build step or server required.
 
 ### Features
 
